@@ -2,7 +2,7 @@
 name: ambiguity-resolution
 description: Resolve design ambiguities
 license: AGPL-3.0-or-later
-user-invokable: true
+user-invocable: true
 ---
 # Ambiguity Resolution Skill
 
