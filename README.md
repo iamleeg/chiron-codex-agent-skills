@@ -4,7 +4,7 @@ These agent skills implement patterns in the Chiron Codex [Patterns in AI-Augmen
 
 ## Using the Skills
 
-Clone this repo, and copy the skills definitions into your agent's skills folder (for example, `~/.vibe/skills/`), or your project's agent skills folder (for example, `/path/to/project/.vibe/skills`).
+Clone this repo, and copy the skills definitions into your agent's skills folder (for example, `~/.agent/skills/`), or your project's agent skills folder (for example, `/path/to/project/.agent/skills`).
 
 Support for agent marketplaces will come soon!
 
